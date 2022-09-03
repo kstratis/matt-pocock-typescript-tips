@@ -1,0 +1,1 @@
+export const createPost = (userId: string, title: string): string => 'OK'
