@@ -1,5 +1,5 @@
 # Intro
-While working through Matt Pocock's legendary Typescript tips I found myself copying over his code just to try thing out.
+While working through Matt Pocock's legendary Typescript tips I found myself copying over his code just to try things out.
 After I was done, I thought to share all this code with like-minded folks.
 
 # References
